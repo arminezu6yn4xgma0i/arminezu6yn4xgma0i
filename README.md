@@ -1,3 +1,5 @@
+![spotify-github-profile](https://readme-now-playing.vercel.app/now-playing/q?uid=yz6nr4kd7gu1tb8nv6zeg5mta&size=small&theme=dark&bar=waves)
+
 # About Me:
 Hello there! 🖖 <br>I'm a self-taught developer.<br>I work on developing, maintaining, and improving various applications, websites, and services. <br>I constantly seek out online resources to expand my knowledge and enhance my skills.
 <br><br>
