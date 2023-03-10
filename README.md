@@ -4,7 +4,6 @@ Hello there! 🖖 <br>I'm a self-taught developer.<br>I work on developing, main
 Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖 Live long and prosper
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ap092) 
-[![](https://visitcount.itsvg.in/api?id=arminezu6yn4xgma0i&icon=0&color=0)](https://visitcount.itsvg.in)
 [![](https://img.shields.io/badge/-@arminezu6yn4xgma0i-%23181717?style=flat-square&logo=github)](https://github.com/arminezu6yn4xgma0i)
 
 # 💻 Tech Stack:
@@ -12,9 +11,7 @@ Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖
 
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2052%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2052%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
@@ -27,7 +24,7 @@ Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖
 > 📜 8 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
- > 
+ >
 **I'm an Early 🐤** 
 
 ```text
@@ -48,7 +45,6 @@ Saturday                 35 commits          ███░░░░░░░░�
 Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -64,9 +60,6 @@ HTML                     1 min               ░░░░░░░░░░░�
 🔥 Editors: 
 PhpStorm                 2 hrs 52 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-auto-dpa                 2 hrs 52 mins       █████████████████████████   100.00 % 
-
 💻 Operating System: 
 Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
@@ -81,36 +74,14 @@ Python                   1 repo              █░░░░░░░░░░�
 Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/arminezu6yn4xgma0i/arminezu6yn4xgma0i/master/assets/bar_graph.png)
-
-
  Last Updated on 10/03/2023 01:17:19 UTC
 <!--END_SECTION:waka-->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2189-blue)
-
-
-`SHOW_COMMIT`       flag can be set to `False` to hide the commit stats
-
-**I'm an early 🐤** 
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-```
 ![](https://github-readme-stats.vercel.app/api?username=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arminezu6yn4xgma0i&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
