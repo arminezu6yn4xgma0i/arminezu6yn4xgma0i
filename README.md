@@ -27,6 +27,7 @@ Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖
  > 
 > 🔑 10 Private Repositories 
  > 
+ 
 **I'm an Early 🐤** 
 
 ```text
@@ -35,6 +36,7 @@ Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖
 🌃 Evening                63 commits          █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 🌙 Night                  38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 ```
+
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
