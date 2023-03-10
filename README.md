@@ -15,6 +15,18 @@ Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖
 <!--START_SECTION:SHOW_OS--><!--END_SECTION:SHOW_OS-->
 <!--START_SECTION:SHOW_TOTAL_CODE_TIME--><!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2189-blue)
+
+
+`SHOW_COMMIT`       flag can be set to `False` to hide the commit stats
+
+**I'm an early 🐤** 
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+```
 ![](https://github-readme-stats.vercel.app/api?username=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
