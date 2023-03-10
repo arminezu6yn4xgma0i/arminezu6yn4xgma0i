@@ -1,4 +1,4 @@
-![spotify-github-profile](https://readme-now-playing.vercel.app/now-playing/q?uid=yz6nr4kd7gu1tb8nv6zeg5mta&size=small&theme=dark&bar=waves)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yz6nr4kd7gu1tb8nv6zeg5mta&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 # About Me:
 Hello there! 🖖 <br>I'm a self-taught developer.<br>I work on developing, maintaining, and improving various applications, websites, and services. <br>I constantly seek out online resources to expand my knowledge and enhance my skills.
