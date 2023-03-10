@@ -15,6 +15,76 @@ Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖
 <!--START_SECTION:SHOW_OS--><!--END_SECTION:SHOW_OS-->
 <!--START_SECTION:SHOW_TOTAL_CODE_TIME--><!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
 
+<!--START_SECTION:activity-->
+
+1. ❗️ Opened issue [#67](https://github.com/ianding1/leetcode.vim/issues/67) in [ianding1/leetcode.vim](https://github.com/ianding1/leetcode.vim)
+2. 🎉 Merged PR [#1](https://github.com/raman08/virtial-classroom/pull/1) in [raman08/virtial-classroom](https://github.com/raman08/virtial-classroom)
+3. 🗣 Commented on [#2](https://github.com/raman08/Analog-Clock/issues/2) in [raman08/Analog-Clock](https://github.com/raman08/Analog-Clock)
+4. 💪 Opened PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
+5. ❌ Closed PR [#1](https://github.com//CSEC-NITH/git-workshop/pull/1) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
+ <!--END_SECTION:activity-->
+ 
+ <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 58 Contributions in the Year 2022
+ > 
+> 📦 295.7 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 62 Public Repositories 
+ > 
+> 🔑 16 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+```text
+🌞 Morning    18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
+🌆 Daytime    162 commits    ██████░░░░░░░░░░░░░░░░░░░   26.82% 
+🌃 Evening    252 commits    ██████████░░░░░░░░░░░░░░░   41.72% 
+🌙 Night      172 commits    ███████░░░░░░░░░░░░░░░░░░   28.48%
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               27 hrs 29 mins      ███████████████████████░░   94.01% 
+PHP                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09% 
+JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
+Docker                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+🐱‍💻 Projects: 
+Pratilipi                15 hrs 52 mins      █████████████░░░░░░░░░░░░   54.26% 
+frontend                 8 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   30.23% 
+Unknown Project          3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
+upswells                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26%
+💻 Operating System: 
+Linux                    29 hrs 14 mins      █████████████████████████   100.0%
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               27 repos            █████████░░░░░░░░░░░░░░░░   39.13% 
+Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+C++                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8%
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/arminezu6yn4xgma0i/arminezu6yn4xgma0i/master/charts/bar_graph.png) 
+
+
+ Last Updated on 16/02/2022 00:49:25 UTC
+<!--END_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2189-blue)
 
 
