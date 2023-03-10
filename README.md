@@ -12,6 +12,8 @@ Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖
 
 # 📊 GitHub Stats:
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_OS--><!--END_SECTION:SHOW_OS-->
+<!--START_SECTION:SHOW_TOTAL_CODE_TIME--><!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
 
 ![](https://github-readme-stats.vercel.app/api?username=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false)
