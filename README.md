@@ -81,12 +81,13 @@ Go                       1 repo              █░░░░░░░░░░�
  
 <!--END_SECTION:waka-->
 
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arminezu6yn4xgma0i&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arminezu6yn4xgma0i&theme=onedark&no-frame=false&no-bg=true&margin-w=3)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yz6nr4kd7gu1tb8nv6zeg5mta&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
