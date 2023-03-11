@@ -28,7 +28,7 @@ Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2037%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-397-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-768.2%20thousand%20lines%20of%20code-blue)
+
 
 **🐱 My GitHub Data**  
 
@@ -98,12 +98,11 @@ Go                       1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arminezu6yn4xgma0i&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arminezu6yn4xgma0i&theme=gruvbox&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arminezu6yn4xgma0i&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arminezu6yn4xgma0i&theme=gruvbox&no-frame=true&no-bg=true&margin-w=3)
+![](https://github-profile-trophy.vercel.app/?username=arminezu6yn4xgma0i&theme=gruvbox&no-frame=true&no-bg=true&row=1)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yz6nr4kd7gu1tb8nv6zeg5mta&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
