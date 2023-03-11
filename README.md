@@ -3,7 +3,7 @@
 # About Me: 
 Hello there! 🖖 <br>I'm a self-taught developer.<br>I work on developing, maintaining, and improving various applications, websites, and services. <br>I constantly seek out online resources to expand my knowledge and enhance my skills.
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ap092)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/ap092)
 <br>
 Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖 Live long and prosper
 
