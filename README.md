@@ -1,6 +1,6 @@
 
 
-# About Me: 
+## About Me: 
 Hello there! 🖖 <br>I'm a self-taught developer.<br>I work on developing, maintaining, and improving various applications, websites, and services. <br>I constantly seek out online resources to expand my knowledge and enhance my skills.
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/ln/ap092)
@@ -24,13 +24,13 @@ Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 
-# 📊 GitHub Stats:
+## Stats:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2037%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-397-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-768.2%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**  
 
 > 📦 44.7 kB Used in GitHub's Storage 
  > 
@@ -40,8 +40,9 @@ Coffee Addict ☕️ | Occasional Gaming Streaks 🕹️ | Camper 🏕️ | 🖖
  > 
 > 📜 8 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
- > 
+> 🔑 10 Private Repositories
+
+
 **I'm an Early 🐤** 
 
 ```text
