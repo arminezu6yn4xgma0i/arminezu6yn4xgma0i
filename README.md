@@ -101,5 +101,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arminezu6yn4xgma0i&theme=gruvbox&no-frame=true&no-bg=true&row=1)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yz6nr4kd7gu1tb8nv6zeg5mta&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
